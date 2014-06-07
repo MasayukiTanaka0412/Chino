@@ -1,0 +1,14 @@
+c:\users\j1013187\documents\visual studio 2012\Projects\Chino\Chino\bin\Debug\Chino.exe.config
+c:\users\j1013187\documents\visual studio 2012\Projects\Chino\Chino\bin\Debug\Chino.exe
+c:\users\j1013187\documents\visual studio 2012\Projects\Chino\Chino\bin\Debug\Chino.pdb
+c:\users\j1013187\documents\visual studio 2012\Projects\Chino\Chino\bin\Debug\InputSimulator.dll
+c:\users\j1013187\documents\visual studio 2012\Projects\Chino\Chino\bin\Debug\InputSimulator.pdb
+c:\users\j1013187\documents\visual studio 2012\Projects\Chino\Chino\obj\Debug\Chino.csprojResolveAssemblyReference.cache
+c:\users\j1013187\documents\visual studio 2012\Projects\Chino\Chino\obj\Debug\Chino.Form1.resources
+c:\users\j1013187\documents\visual studio 2012\Projects\Chino\Chino\obj\Debug\Chino.Properties.Resources.resources
+c:\users\j1013187\documents\visual studio 2012\Projects\Chino\Chino\obj\Debug\Chino.csproj.GenerateResource.Cache
+c:\users\j1013187\documents\visual studio 2012\Projects\Chino\Chino\obj\Debug\Chino.exe
+c:\users\j1013187\documents\visual studio 2012\Projects\Chino\Chino\obj\Debug\Chino.pdb
+c:\users\j1013187\documents\visual studio 2012\Projects\Chino\Chino\bin\Debug\Cocoa.dll
+c:\users\j1013187\documents\visual studio 2012\Projects\Chino\Chino\bin\Debug\Cocoa.pdb
+c:\users\j1013187\documents\visual studio 2012\Projects\Chino\Chino\bin\Debug\Scenario.txt

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chino", "Chino\Chino.csproj", "{7B5B91CD-B4A1-4390-A39A-57BEA906C786}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputSimulator", "InputSimulator\InputSimulator.csproj", "{3549CD6F-80F8-450F-B99E-CF0A736B1F2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cocoa", "Cocoa\Cocoa.csproj", "{45A6025F-B6A0-4BC4-9EE9-A2AC2D4B302C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B5B91CD-B4A1-4390-A39A-57BEA906C786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B5B91CD-B4A1-4390-A39A-57BEA906C786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B5B91CD-B4A1-4390-A39A-57BEA906C786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B5B91CD-B4A1-4390-A39A-57BEA906C786}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3549CD6F-80F8-450F-B99E-CF0A736B1F2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3549CD6F-80F8-450F-B99E-CF0A736B1F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3549CD6F-80F8-450F-B99E-CF0A736B1F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3549CD6F-80F8-450F-B99E-CF0A736B1F2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45A6025F-B6A0-4BC4-9EE9-A2AC2D4B302C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A6025F-B6A0-4BC4-9EE9-A2AC2D4B302C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A6025F-B6A0-4BC4-9EE9-A2AC2D4B302C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A6025F-B6A0-4BC4-9EE9-A2AC2D4B302C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

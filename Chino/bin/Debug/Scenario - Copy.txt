@@ -1,0 +1,20 @@
+﻿//Activate Window and move it to 0,0
+ActivateWindow,{pid1}
+Sleep,1000
+//Activate Navigation Pane
+MouseLeftPress,70,306
+Sleep,1000
+//Select EPPA on main menu
+PressEnter
+Sleep,1000
+//Select EPPA on analysis menu
+PressDown
+PressEnter
+Sleep,1000
+//Open Group View
+PressDown
+PressEnter
+Sleep,1000
+//Select G111
+PressDown
+PressEnter

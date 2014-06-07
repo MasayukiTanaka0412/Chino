@@ -1,0 +1,5 @@
+C:\Users\j1013187\Documents\Visual Studio 2012\Projects\Chino\InputSimulator\bin\Debug\InputSimulator.dll
+C:\Users\j1013187\Documents\Visual Studio 2012\Projects\Chino\InputSimulator\bin\Debug\InputSimulator.pdb
+C:\Users\j1013187\Documents\Visual Studio 2012\Projects\Chino\InputSimulator\obj\Debug\InputSimulator.csprojResolveAssemblyReference.cache
+C:\Users\j1013187\Documents\Visual Studio 2012\Projects\Chino\InputSimulator\obj\Debug\InputSimulator.dll
+C:\Users\j1013187\Documents\Visual Studio 2012\Projects\Chino\InputSimulator\obj\Debug\InputSimulator.pdb

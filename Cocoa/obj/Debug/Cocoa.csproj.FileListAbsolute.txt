@@ -1,0 +1,7 @@
+c:\Users\j1013187\documents\visual studio 2012\Projects\Chino\Cocoa\bin\Debug\Cocoa.dll
+c:\Users\j1013187\documents\visual studio 2012\Projects\Chino\Cocoa\bin\Debug\Cocoa.pdb
+c:\Users\j1013187\documents\visual studio 2012\Projects\Chino\Cocoa\bin\Debug\InputSimulator.dll
+c:\Users\j1013187\documents\visual studio 2012\Projects\Chino\Cocoa\bin\Debug\InputSimulator.pdb
+c:\Users\j1013187\documents\visual studio 2012\Projects\Chino\Cocoa\obj\Debug\Cocoa.csprojResolveAssemblyReference.cache
+c:\Users\j1013187\documents\visual studio 2012\Projects\Chino\Cocoa\obj\Debug\Cocoa.dll
+c:\Users\j1013187\documents\visual studio 2012\Projects\Chino\Cocoa\obj\Debug\Cocoa.pdb
